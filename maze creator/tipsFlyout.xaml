@@ -1,0 +1,94 @@
+﻿<UserControl x:Class="maze_creator.tipsFlyout"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:maze_creator"
+             xmlns:ui="http://schemas.modernwpf.com/2019"
+             mc:Ignorable="d" 
+             d:DesignHeight="440" d:DesignWidth="250">
+    <Grid Width="250"
+          Height="440"
+          
+          >
+        <GroupBox Header="Tips"
+                  Margin="5">
+            <ui:SimpleStackPanel Spacing="10">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition  Width="40"/>
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <Border Width="15"
+                            Height="15"
+                            CornerRadius="50"
+                            BorderThickness="2"
+                            BorderBrush="{DynamicResource SystemControlForegroundBaseHighBrush}" />
+                    <TextBlock Grid.Column="1"
+                               Text="Click on the dots to make a wall in that position. clicking on a created wall will remove it"
+                               TextWrapping="Wrap"
+                               FontSize="12"/>
+                </Grid>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition  Width="40" />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <ui:SymbolIcon Symbol="MapPin"/>
+                    <Border Width="10"
+                            
+                            Height="10"
+                            CornerRadius="50"
+                            Background="MediumSeaGreen"
+                            Margin="14,44,16,11.6" />
+                    <TextBlock Grid.Column="1"
+                               Text="To specify the player's spawn location on the map, click on the 'Start line' button and then click on any dots on the screen."
+                               TextWrapping="Wrap"
+                               FontSize="12" />
+                </Grid>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition  Width="40" />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <ui:SymbolIcon Symbol="Flag" />
+                    <Border Width="10"
+                            Height="10"
+                            CornerRadius="50"
+                            Background="DodgerBlue"
+                            Margin="8,52,22,19.6" />
+                    <TextBlock Grid.Column="1"
+                               Text="You can set the finish line on the map by clicking this button and click on any dot on the screen. If a player reaches this line, he/she will win the game."
+                               TextWrapping="Wrap"
+                               FontSize="12" />
+                </Grid>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition  Width="40" />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <ui:SymbolIcon Symbol="Remove" />
+                    
+                    <TextBlock Grid.Column="1"
+                               Text="The walls on the map can be either horizontal or vertical. use this button to make the walls horizontally."
+                               TextWrapping="Wrap"
+                               FontSize="12" />
+                </Grid>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition  Width="40" />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <ui:SymbolIcon Symbol="Save" />
+                    <TextBlock Grid.Column="1"
+                               Text="You can save your map into a file so you can continue creating your map later. Or you can give the file to your friends to make the rest of the map for you!"
+                               TextWrapping="Wrap"
+                               FontSize="12" />
+                </Grid>
+
+            </ui:SimpleStackPanel>
+        </GroupBox>
+    </Grid>
+</UserControl>
