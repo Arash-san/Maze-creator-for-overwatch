@@ -21,7 +21,7 @@ With this application, you can create your own mazes and play it on overwatch!
    buttom) add subtitle to your game mode if you want and change the
    settings.
  - After you done, click on "Copy the code to clipboard". and then go yo
-   overwtach, go to custom games and import this code: 5HY5V, then go to "Settings", then click on
+   overwtach, go to custom games and import this code: 5HY5V (or you can get the newest version on [workshop.codes website](https://workshop.codes/maze-creator), then go to "Settings", then click on
    "Workshop", and then put your code in the 'Paste your code here'
    rule.
 
