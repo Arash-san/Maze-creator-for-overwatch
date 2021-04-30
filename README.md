@@ -2,7 +2,7 @@
 With this application, you can create your own mazes and play it on overwatch!
 
 ![enter image description here](https://raw.githubusercontent.com/Arash-san/Maze-creator-for-overwatch/master/docs/maze1.jpg)
-## How to do use this app
+## How to use this app
 
  - Simply create your maze in the "Map editor" tab (If you need more
    information about the details, click on the "Tips" button at the
