@@ -1,7 +1,18 @@
+
+
 ## Maze creator for overwatch
 With this application, you can create your own mazes and play it on overwatch!
 
-<img src="https://raw.githubusercontent.com/Arash-san/Maze-creator-for-overwatch/master/docs/maze1.jpg" alt="alt text" width="550">
+[![GitHub all releases](https://img.shields.io/github/downloads/Arash-san/Maze-creator-for-overwatch/total?style=for-the-badge)](https://github.com/Arash-san/Maze-creator-for-overwatch/releases)
+[![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Arash-san/Maze-creator-for-overwatch?include_prereleases&style=for-the-badge)](https://github.com/Arash-san/Maze-creator-for-overwatch)
+[![Github All Releases](https://img.shields.io/badge/Overwatch%20code-5HY5V-blue?style=for-the-badge)](https://github.com/Arash-san/Maze-creator-for-overwatch)
+</br>
+<img src="https://raw.githubusercontent.com/Arash-san/Maze-creator-for-overwatch/master/docs/maze1.jpg" alt="alt text" width="400">
+
+## Requirements
+
+ - .NET Framework 4.7.2+ (Click on [this link](https://dotnet.microsoft.com/download/dotnet-framework/net472) to download)
+ - Windows Vista SP2 and above.
 
 ## How to do use this app
 
@@ -21,17 +32,13 @@ With this application, you can create your own mazes and play it on overwatch!
 
 Then start the game and enjoy!
 
-## Requirements
-
- - .NET Framework 4.7.2+ (Click on [this link](https://dotnet.microsoft.com/download/dotnet-framework/net472) to download)
- - Windows Vista SP2 and above.
 
 ## Screenshots
 
 
-<img src="https://raw.githubusercontent.com/Arash-san/Maze-creator-for-overwatch/master/docs/maze2.jpg" alt="alt text" width="550">
+<img src="https://raw.githubusercontent.com/Arash-san/Maze-creator-for-overwatch/master/docs/maze2.jpg" alt="alt text" width="400">
 
-<img src="https://raw.githubusercontent.com/Arash-san/Maze-creator-for-overwatch/master/docs/maze3.jpg" alt="alt text" width="550">
+<img src="https://raw.githubusercontent.com/Arash-san/Maze-creator-for-overwatch/master/docs/maze3.jpg" alt="alt text" width="400">
 
-<img src="https://raw.githubusercontent.com/Arash-san/Maze-creator-for-overwatch/master/docs/maze4.jpg" alt="alt text" width="650">
+<img src="https://raw.githubusercontent.com/Arash-san/Maze-creator-for-overwatch/master/docs/maze4.jpg" alt="alt text" width="500">
 
