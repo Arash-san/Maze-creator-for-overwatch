@@ -4,9 +4,8 @@
 With this application, you can create your own mazes and play it on overwatch!
 
 [![GitHub all releases](https://img.shields.io/github/downloads/Arash-san/Maze-creator-for-overwatch/total?style=for-the-badge)](https://github.com/Arash-san/Maze-creator-for-overwatch/releases)
-[![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Arash-san/Maze-creator-for-overwatch?include_prereleases&style=for-the-badge)](https://github.com/Arash-san/Maze-creator-for-overwatch)
 [![Github All Releases](https://img.shields.io/badge/Overwatch%20code-5HY5V-blue?style=for-the-badge)](https://github.com/Arash-san/Maze-creator-for-overwatch)
-</br>
+</br></br>
 <img src="https://raw.githubusercontent.com/Arash-san/Maze-creator-for-overwatch/master/docs/maze1.jpg" alt="alt text" width="400">
 
 ## Requirements
