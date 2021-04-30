@@ -10,12 +10,12 @@ With this application, you can create your own mazes and play it on overwatch!
 
 ## Examples
 
-   These codes are some examples that created by this tool
+   These codes are some examples created by this tool.
 
    - N7R0Q
    - NN9VQ
    - 2752QR
-   - More examples will be availbale soon
+   - More examples will be available soon
 
 ## Requirements
 
